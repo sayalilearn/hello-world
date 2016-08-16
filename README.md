@@ -1,3 +1,3 @@
 # hello-world
 simple repository
-I a not editing the branch
+I am now editing the branch
